@@ -304,3 +304,9 @@ a {
   background: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
 }
+footer {
+  background: #222;
+  color: white;
+  padding: 30px 0px 30px 0px;
+  text-align: center;
+}
